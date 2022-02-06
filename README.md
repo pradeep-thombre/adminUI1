@@ -1,7 +1,7 @@
 # Admin-UI
 
 This application is created to fetch all the users registered, Delete users, Modify the users data such as name, email and there role in organisation. Feature to select multiple users and delete them also added. Search bar is also provided to search data on their name, email and role.
-This app is also hosted thought github on https://pradeep-thombre.github.io/AdminUI/
+This app is also hosted thought github on https://pradeep-thombre.github.io/adminUI1/
 
 
 ## Features
@@ -33,7 +33,7 @@ Go to the project directory
   cd Admin
 ```
 
-Open Index.html in chrome or any other browser.
+Open Index.html in chrome or any other browser with live server.
 
 
 
@@ -44,4 +44,4 @@ Open Index.html in chrome or any other browser.
 
 ## Support
 
-For support, email pradeepbthombre@gmail.com.com or connect me on linkedin on @pradeepbthombre
+For support, email pradeepbthombre@gmail.com or connect me on linkedin on [@pradeepthombre](https://www.linkedin.com/in/pradeep-thombre/)
